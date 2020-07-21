@@ -2,7 +2,7 @@
 """
 Created on Mon Jul 20 20:25:27 2020
 
-@author: Usuario
+@author: Santiago Quinga
 """
 
 from random import randint
